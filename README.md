@@ -9,6 +9,7 @@ remediación de las mismas, especia- lizado en el Pentesting y Hacking Ético. E
 de CTF’s como de la paginas de Hack The Box o Try Hack Me entre otras.
 
 ![https://4xloff.github.io/](https://raw.github.com/4xLoff/4xL/blob/main/git.png)
+![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
 Actualmente estoy aprendiendo Nodejs / Javascript / Angular / Ingles.
 
