@@ -8,8 +8,24 @@ Soy Tecnólogo en Ciberseguridad, un apacionado en la búsqueda continua de vuln
 remediación de las mismas, especia- lizado en el Pentesting y Hacking Ético. Entusiasta de la reslolucion 
 de CTF’s como de la paginas de Hack The Box o Try Hack Me entre otras.
 
+![https://4xloff.github.io/](https://raw.github.com/4xLoff/4xL/blob/main/git.png)
+
 Actualmente estoy aprendiendo Nodejs / Javascript / Angular / Ingles.
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhoncarloslara/)
+
+## Tecnologías:
+
+[![Python]()]()
+[![JavaScript]()]()
+[![AWS]()]()
+[![Google_Cloud]()]()
+</br>
+[![Firebase]()]()
+[![Node.JS]()]()
+[![MongoDB]()]()
+[![MySQL]()]()
+</br>
+Y alguna más...
