@@ -1,8 +1,8 @@
 # 4xL
 
-<p><em>¡Hola Mundo! :wave: :wave:</em></p>
+¡Hola Mundo! :wave: :wave:
 Soy Jhon Carlos Lara , alias , 4xL .
-<p><em>Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/)</em></p>.
+Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).
 ![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
 ## A little more about me...  
@@ -84,16 +84,16 @@ Y muchas más...
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xLoff&theme=tokyonight&show_icons=true&count_private=true)]()"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/app?username=4xLoff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" /></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=4xLoff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" /></td>
   </tr>
 </table>
 
 <!--START_SECTION:waka-->
 
 ```text
-Python            5 hrs 52 mins   ██████████████████▒░░░░░░   72.97 %
-BashScripting     58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   62.09 %
-JavaScript        49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   40.15 %
+Python            5 hrs 52 mins   ███████████████████                           72.97 % 
+BashScripting     58 mins         █████████████████░░░░██░░░░░░░░░░░██░░░░░░░   62.09 %
+JavaScript        49 mins         ██████████████▓░░░░░░░░░░░░░░░░░░░░░░         40.15 %
 ```
 
 <!--END_SECTION:waka-->
