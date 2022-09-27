@@ -2,7 +2,7 @@
 
 ¡Hola Mundo! :wave: :wave:
 Soy Jhon Carlos Lara , alias , 4xL .
-Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).
+Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/)<br>.
 ![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
 ## A little more about me...  
@@ -57,6 +57,8 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
     <a href="#"><img alt="SQL Server" src ="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Google_Cloud" src ="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010"></a>
 </p>
 
 ### 💻 Software and tools
@@ -69,11 +71,11 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src=(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="Jupyter" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src=https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src=https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src=https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
     
