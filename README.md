@@ -14,7 +14,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com)
 [![4xL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhoncarloslara/)
-[![Youtube Helpers](https://img.shields.io/badge/-miguelan-darkred?style=flat-square&logo=youtube&logoColor=white&link=)]()
+[![Youtube Helpers](https://img.shields.io/badge/-helpers-darkred?style=flat-square&logo=youtube&logoColor=white&link=)]()
 
 ## 🛠️ My favorite tools
 
