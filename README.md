@@ -2,7 +2,7 @@
 
 ¡Hola Mundo! :wave: :wave:
 Soy Jhon Carlos Lara , alias , 4xL .
-Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/)<br>.
+Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).<br>
 ![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
 ## A little more about me...  
