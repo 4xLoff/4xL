@@ -2,6 +2,12 @@
 
 ¡Hola Mundo! :wave: :wave:
 Soy Jhon Carlos Lara , alias , 4xL .
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F71F0F&center=true&vCenter=true&lines=I+am+an+Ethical+Hacker.;I+am+a+Digital+Artist.;I+am+a+Programmer.;I+am+a+CTF+player.;I+am+a+Musician.;I+am+an+Pentester."/>
+</p>
+
+
 Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).<br>.
 ![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
@@ -10,6 +16,10 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 - 😄 Soy Tecnólogo en Ciberseguridad, un apacionado en la búsqueda continua de vulnerabilidades ,la mitigación y remediación de las mismas, especializado en el Pentesting y Hacking Ético. Entusiasta de la reslolucion de CTF’s como de la paginas de Hack The Box o Try Hack Me entre otras.
 
 - 🌱 Actualmente estoy aprendiendo Nodejs / Javascript / Angular / Ingles.
+
+```default
+"If you don't want to learn, it's because you don't want to or you don't have internet."(4xL-2022)
+```
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com)
@@ -79,7 +89,24 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
     
-Y muchas más...
+### Profiles
+<details>
+  <summary><b>HackTheBox</b></summary>
+
+  <a href="https://app.hackthebox.eu/profile/337200">
+<img src="http://www.hackthebox.eu/badge/image/337200" alt="Hack The Box">
+  </a>
+  <br></br>
+  </details>
+  
+  <details>
+  <summary><b>TryHackMe</b></summary>
+
+  <a href="https://tryhackme.com/p/Axel666">
+<img src="" alt="TryHackMe">
+  </a>
+  <br></br>
+  </details>
 
 ### Stats
 
