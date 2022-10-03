@@ -8,7 +8,9 @@ Soy Jhon Carlos Lara , alias , 4xL .
 </p>
 
 
-Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).<br>.
+Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or [resume](https://4xloff.github.io/resume/).
+<br/>
+<br/>
 ![https://4xloff.github.io/](https://github.com/4xLoff/4xL/blob/main/git.png)
 
 ## A little more about me...  
@@ -116,6 +118,20 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=4xLoff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" /></td>
   </tr>
 </table>
+
+---
+
+<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+
+<div>
+  <a href="https://github.com/mctechnology17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4xLoff&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4xLoff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false"/>
+</div>
+
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <!--START_SECTION:waka-->
 
