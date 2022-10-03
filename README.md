@@ -103,7 +103,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
   <summary><b>TryHackMe</b></summary>
 
   <a href="https://tryhackme.com/p/Axel666">
-<img src="" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Axel666.png" alt="TryHackMe">
   </a>
   <br></br>
   </details>
