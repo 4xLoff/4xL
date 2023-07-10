@@ -1,7 +1,7 @@
 # 4xL
 
 ¡Hola Mundo! :wave: :wave:
-Soy Jhon Carlos Lara , alias , 4xL .
+Soy Jhon , alias , 4xL .
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F71F0F&center=true&vCenter=true&lines=I+am+an+Ethical+Hacker.;I+am+a+Digital+Artist.;I+am+a+Programmer.;I+am+a+CTF+player.;I+am+a+Musician.;I+am+an+Pentester."/>
@@ -15,7 +15,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 
 ## A little more about me...  
 
-- 😄 Soy Tecnólogo en Ciberseguridad, un apacionado en la búsqueda continua de vulnerabilidades ,la mitigación y remediación de las mismas, especializado en el Pentesting y Hacking Ético. Entusiasta de la reslolucion de CTF’s como de la paginas de Hack The Box o Try Hack Me entre otras.
+- 😄 Soy un apacionado en la búsqueda continua de vulnerabilidades ,la mitigación y remediación de las mismas, especializado en el Pentesting y Hacking Ético. Entusiasta de la reslolucion de CTF’s como de la paginas de Hack The Box o Try Hack Me entre otras.
 
 - 🌱 Actualmente estoy aprendiendo Nodejs / Javascript / Angular / Ingles.
 
