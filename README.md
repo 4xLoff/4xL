@@ -49,7 +49,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Road to OSCP](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")](https://www.youtube.com/watch?v=o4v1tFN7SBk)
+[![Road to OSCP](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")]()
 
 <!-- END YOUTUBE-CARDS -->
 
@@ -87,19 +87,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 
 ---
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<!--START_SECTION:waka-->
-
-```text
-Python            5 hrs 52 mins   ███████████████████                           72.97 % 
-BashScripting     58 mins         █████████████████░░░░██░░░░░░░░░░░██░░░░░░░   62.09 %
-JavaScript        49 mins         ██████████████▓░░░░░░░░░░░░░░░░░░░░░░         40.15 %
-```
-
-<!--END_SECTION:waka-->
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
