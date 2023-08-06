@@ -30,9 +30,13 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codegrills" height="30" width="40" /></a>
 <a href="https://instagram.com/helpers593_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Helpers" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCspCDgm1BZ4siDL_z4NF6vA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Helpers" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Profiles:</h3>
 <a href="https://app.hackthebox.eu/profile/337200"><img src="http://www.hackthebox.eu/badge/image/337200" alt="Hack The Box"></a>
 <a href="https://tryhackme.com/p/Axel666"><img src="https://tryhackme-badges.s3.amazonaws.com/Axel666.png" alt="TryHackMe"></a>
-</p>
+<p align="left">
 
 
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
@@ -57,11 +61,6 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/4xLoff"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/4xLoff" /></a></p><br><br>
     
-### Profiles
-
-
-
-
 ### Stats
 
 <table>
