@@ -23,6 +23,16 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 "If you don't want to learn, it's because you don't want to or you don't have internet."(4xL-2022)
 ```
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Helpers80474548?t=q_KF_zT6tFZtoqV-avv4zA&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Helpers" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jhoncarloslara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Helpers" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codegrills" height="30" width="40" /></a>
+<a href="https://instagram.com/helpers593_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Helpers" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCspCDgm1BZ4siDL_z4NF6vA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Helpers" height="30" width="40" /></a>
+</p>
+
+
 [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com)
 [![4xL](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhoncarloslara/)
