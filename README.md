@@ -41,8 +41,8 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 <p align="left">
 
 
-[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com)
+<!-- [![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6495ED?logo=Github)](https://4xloff.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:jesiel1990arthas@gmail.com) -->
 
 ---
 
