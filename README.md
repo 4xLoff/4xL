@@ -49,7 +49,7 @@ Puede encontrar más sobre mí en mi [blog](https://4xloff.github.io/about/) or 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Road to OSCP](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=Three+tools+that+enhance+my+coding+workflow&lang=en&timestamp=1689693304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Three tools that enhance my coding workflow")]()
+[![Road to OSCP](https://ytcards.demolab.com/?id=o4v1tFN7SBk&title=&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=60 "Titulo")]()
 
 <!-- END YOUTUBE-CARDS -->
 
